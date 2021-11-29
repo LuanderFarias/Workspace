@@ -1,2 +1,2 @@
-# Luander-s-Workspace
+# Luander-Workspace
 My shell-script to automate my linux pos-installation...
