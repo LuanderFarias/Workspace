@@ -20,4 +20,4 @@ The process will ask if you want to continue
 
 Test on other distributions of the Debian family.
 
-Open an isseu so we can evolve the tool.
+Open an issue so we can evolue the script.
